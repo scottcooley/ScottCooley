@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="hello world example" /> 
+  <Content type="html">
+     <![CDATA[ 
+       <SCRIPT charset="utf-8" type="text/javascript" src="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_cw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fscotcool-20%2F8010%2Fe34f1569-6a96-4e5a-8be4-0e367d6013da&Operation=GetScriptTemplate"> </SCRIPT>
+     ]]>
+  </Content> 
+</Module>
+
