@@ -1,3 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="slideshow" /> 
+  <Content type="html">
+     <![CDATA[ 
+
+          <SCRIPT charset="utf-8" type="text/javascript" src="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_cw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fscotcool-20%2F8010%2Fff00921e-e1e0-4e55-a5c3-91c5522c18e3&Operation=GetScriptTemplate"> </SCRIPT> <NOSCRIPT><A HREF="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_cw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fscotcool-20%2F8010%2Fff00921e-e1e0-4e55-a5c3-91c5522c18e3&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>
+
+     ]]>
+  </Content> 
+</Module>
 
 
 
@@ -5,4 +16,3 @@
 
 
 
-<SCRIPT charset="utf-8" type="text/javascript" src="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_cw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fscotcool-20%2F8010%2Fff00921e-e1e0-4e55-a5c3-91c5522c18e3&Operation=GetScriptTemplate"> </SCRIPT> <NOSCRIPT><A HREF="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_cw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fscotcool-20%2F8010%2Fff00921e-e1e0-4e55-a5c3-91c5522c18e3&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>
