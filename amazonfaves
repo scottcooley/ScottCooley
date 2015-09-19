@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="slideshow" /> 
+  <Content type="html">
+     <![CDATA[ 
+
+<SCRIPT charset="utf-8" type="text/javascript" src="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_mfw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fscotcool-20%2F8001%2F84599715-2732-41a4-ae93-6a9418257bcc"> </SCRIPT> <NOSCRIPT><A HREF="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_mfw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fscotcool-20%2F8001%2F84599715-2732-41a4-ae93-6a9418257bcc&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>
+
+
+     ]]>
+  </Content> 
+</Module>
+
