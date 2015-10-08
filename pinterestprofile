@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-<Module>
-  <ModulePrefs title="slideshow" /> 
-  <Content type="html">
-     <![CDATA[ 
 
-<a data-pin-do="embedUser" href="http://www.pinterest.com/scottcooley/" data-pin-scale-width="115" data-pin-scale-height="120" data-pin-board-width="900"></a>
-<!-- Please call pinit.js only once per page -->
-<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
-     ]]>
-  </Content> 
-</Module>
