@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="slideshow" /> 
+  <Content type="html">
+     <![CDATA[ 
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_tracking_id = "scotcool-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_linkid = "5a38072898cc9466d4c47e0150306e12";
+amzn_assoc_asins = "B00JX3SWR8,B008E0OENM,B0071EKTMC,B0071EKSDM";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+     ]]>
+  </Content> 
+</Module>
