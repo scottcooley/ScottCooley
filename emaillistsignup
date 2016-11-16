@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>  
-<ModulePrefs title="__UP_title__" directory_title="Google Group Subscribe Button" 
+<ModulePrefs title="__UP_title__" directory_title="Scott Cooley Mailing List" 
    scrolling="true"
    height="30" 
    width="290"
 title_url="__UP_titleurl__"
 /> 
 
-<UserPref name="title" display_name="title" datatype="string" required="false" default_value="Google Group Subscribe Button" />
+<UserPref name="title" display_name="title" datatype="string" required="false" default_value="Scott Cooley Mailing List" />
   <Content type="html">
 <![CDATA[
 
